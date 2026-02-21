@@ -18,10 +18,10 @@ An [InkyPi](https://github.com/fatihak/InkyPi) plugin that displays a fresh insp
 
 ## Installation
 
-In the InkyPi web UI, go to **Settings → Plugins → Install Third-Party Plugin** and enter this repository URL:
+Run the following command on your Raspberry Pi:
 
-```
-https://github.com/BloodAkatsuki/InkyPi-DailyQuote
+```bash
+inkypi plugin install daily_quote https://github.com/BloodAkatsuki/InkyPi-DailyQuote
 ```
 
 ## Status
